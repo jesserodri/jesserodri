@@ -1,4 +1,9 @@
 # Olá Pessoal 👋
+<div align="center">
+  <img  src="https://github.com/jesserodri/jesserodri/assets/70242043/3a3b3c2c-8b8f-48c3-83c3-f3125d301960" width=30%>
+</div>
+
+
 
 <div>
 <p>Meu nome é <strong>Jessé</strong>, sou formado em Ánalise e desenvolvimento de Sistemas pela Cruzeiro do Sul, por toda carreira executei trabalhos com infraestrutura e administração de redes e servidores, Atualmente estou estudando e efetuando projetos pessoais para obter uma oportunidade na área de desenvolvimento.</p>
