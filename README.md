@@ -1,12 +1,12 @@
-# Olá Pessoal 👋
+# 👋 Seja Bem-vindo ao Meu GITHUB 😄
 <div align="center">
-  <img  src="https://github.com/jesserodri/jesserodri/assets/70242043/3a3b3c2c-8b8f-48c3-83c3-f3125d301960" width=30%>
+  <img  src="https://v3ded.github.io/img/blog/helloworld.png" width=50%>
 </div>
 
 
 
 <div>
-<p>Meu nome é <strong>Jessé</strong>, sou formado em Ánalise e desenvolvimento de Sistemas pela Cruzeiro do Sul, por toda carreira executei trabalhos com infraestrutura e administração de redes e servidores, Atualmente estou estudando e efetuando projetos pessoais para obter uma oportunidade na área de desenvolvimento.</p>
+<p>Meu nome é <strong>Jessé</strong>, sou formado em Ánalise e desenvolvimento de Sistemas pela Cruzeiro do Sul, por toda carreira executei trabalhos com infraestrutura e administração de redes e servidores, Atualmente estou estudando e efetuando projetos pessoais para obter experiência e por consequência uma oportunidade na área de desenvolvimento.</p>
 - Tenho comigo uma vontade e empenho de estudar e progredir com diversos conhecimentos, para mim estudar é estilo de vida, não uma obrigação!</p>
 - Eu tenho realizado trabalhos diversos com front-end(sendo alguns pessoais) e dou aulas de Informática(Pacote office, windows) para uma Unidade profissionalizante 
 - Por toda minha carreira me deparei com problemas que necessitavam de certas automações, procurei na programação uma chance de facilitar minha vida (python)
