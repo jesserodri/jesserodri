@@ -6,10 +6,10 @@
 
 
 <div>
-<p>Meu nome é <strong>Jessé</strong>, sou formado em Ánalise e desenvolvimento de Sistemas pela Cruzeiro do Sul, por toda carreira executei trabalhos com infraestrutura e administração de redes e servidores, Atualmente estou estudando e efetuando projetos pessoais para obter experiência, e assim, obter uma oportunidade na área de desenvolvimento.
-- Tenho comigo uma vontade e empenho de estudar e progredir com diversos conhecimentos, para mim estudar é estilo de vida, não uma obrigação!
-- Eu tenho realizado trabalhos diversos com front-end(sendo alguns pessoais) e dou aulas de Informática(Pacote office, windows) para uma Unidade profissionalizante 
-- Por toda minha carreira me deparei com problemas que necessitavam de certas automações, procurei na programação uma chance de facilitar minha vida (python)</p>
+<p>Meu nome é <strong>Jessé</strong>, sou formado em Ánalise e desenvolvimento de Sistemas pela Cruzeiro do Sul, por toda carreira executei trabalhos com infraestrutura e administração de redes e servidores, Atualmente estou estudando e efetuando projetos pessoais para obter experiência, e assim, obter uma oportunidade na área de desenvolvimento.</p>
+<p>- Tenho comigo uma vontade e empenho de estudar e progredir com diversos conhecimentos, para mim estudar é estilo de vida, não uma obrigação!</p>
+<p>- Eu tenho realizado trabalhos diversos com front-end(sendo alguns pessoais) e dou aulas de Informática(Pacote office, windows) para uma Unidade profissionalizante.</p>
+<p>- Por toda minha carreira me deparei com problemas que necessitavam de certas automações, procurei na programação uma chance de facilitar minha vida (python).</p>
 </div>
 
 
