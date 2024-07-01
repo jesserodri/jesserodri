@@ -30,9 +30,6 @@
   <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png"width=3%>
 </div>
 
-## 📫 Redes 📫
-![Static Badge](https://img.shields.io/badge/Github-JesseRodri-blue?link=https%3A%2F%2Fgithub.com%2Fjesserodri)
-![Static Badge](https://img.shields.io/badge/Linkedin-Jess%C3%A9%20Rodrigues-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjess%25C3%25A9-rodrigues-da-silva%2F)
 
 
 
